@@ -14,4 +14,4 @@ https://github.com/jbeder/yaml-cpp
 ![alt text][exampleout]
 
 
-[exampleout]: https://github.com/datosh/evindustry/images/example.png
+[exampleout]: https://raw.githubusercontent.com/datosh/evindustry/master/images/example.png
